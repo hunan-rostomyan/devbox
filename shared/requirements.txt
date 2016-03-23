@@ -1,0 +1,5 @@
+ipython==4.1.2
+ipython-genutils==0.1.0
+virtualenv==15.0.1
+virtualenv-clone==0.2.6
+virtualenvwrapper==4.7.1

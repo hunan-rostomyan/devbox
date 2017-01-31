@@ -23,7 +23,7 @@ to find the Docker daemon and pass the container for it to execute.*
 # What do these files do?
 
 - *Dockerfile* is the Docker **manifest**. It contains the recipe for
-  building the Docker **image**, the thing that consequently gets executed
+  building the Docker **image**, the thing that subsequently gets executed
   to create a Docker **container** (this image/container distinction is analogous
   to the program/process distinction).
 - *build* rebuilds the image. Run this when the source changes.
